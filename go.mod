@@ -1,4 +1,4 @@
-module example.com/hello
+module github.com/joesri/hello
 
 go 1.13
 
